@@ -1,0 +1,28 @@
+---
+title: "Rmarkdown testing"
+author: "Takuro"
+date: "1/5/2022"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# R markdown note
+
+## installing package 
+`intall.package()`
+
+## loading package
+`library()`
+
+### Rmarkdown syntax
+- **bold**
+- *italic*
+- ~~straightthrough~~
+- [link](https://www.coursera.org/learn/data-scientists-tools/lab-sandbox?path=%2F)
+
+```{r}
+print("updated")
+```
