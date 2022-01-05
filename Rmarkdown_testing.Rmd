@@ -21,7 +21,7 @@ knitr::opts_chunk$set(echo = TRUE)
 - **bold**
 - *italic*
 - ~~straightthrough~~
-- [link](https://www.coursera.org/learn/data-scientists-tools/lab-sandbox?path=%2F)
+- [GitHub link](https://github.com/gt-taku/assembleMyToolbox)
 
 ```{r}
 print("updated")
